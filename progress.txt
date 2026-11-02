@@ -1,1 +1,1 @@
-# Learning Git cammands
+Practicing git add,commit push command
